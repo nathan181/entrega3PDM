@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWalkinTime</string>
+    <string name="GPS_permission">" Conceder permiso de GPS"</string>
+    <string name="enable_gps">" Habilitar GPS"</string>
+    <string name="disable_gps">" Deshabilitar GPS"</string>
+    <string name="start_route">Empiezar corrida</string>
+    <string name="stop_route">Terminar corrida</string>
+    <string name="icon_content_description">"Icono de la aplicación "</string>
+    <string name="local_search">" Que quieres encontrar?"</string>
+    <string name="travelled_distance">" Distancia recorrida"</string>
+    <string name="elapsed_time">Tiempo pasado</string>
+    <string name="no_gps_no_app">Requiere permiso de GPS</string>
+    <string name="started_chronometer">" Ruta iniciada"</string>
+    <string name="stopped_chronometer">Ruta terminada</string>
+    <string name="timer_on">" Cronómetro ya activado"</string>
+    <string name="permission_already_granted">Permision ya grantida</string>
+    <string name="gps_already_activated">GPS ya activado</string>
+    <string name="gps_not_activated">GPS no activado</string>
+    <string name="route_location_done">0 KM</string>
+    <string name="no_gps_activation">Activacion de GPS requerida</string>
+    <string name="no_route_iniciated">Ruta no iniciada</string>
+</resources>
